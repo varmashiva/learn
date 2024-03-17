@@ -1,0 +1,23 @@
+/* universal selector */
+* {
+   color: black;
+}
+/* class selector */
+.abcd {
+    background-color: aqua;
+    color: brown;
+}
+.pspk {
+    background-color: black;
+    color: white;
+}
+/* id selector */
+#vinnu {
+    background-color: blanchedalmond;
+    color: darkgreen;
+}
+/* element selectors */
+li {
+    color: white;
+    background-color: black;
+}
